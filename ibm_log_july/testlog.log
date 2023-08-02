@@ -1,0 +1,364 @@
+2023-07-18 11:22:45,091 - nopComm Application -INFO - ---------------info-------------
+2023-07-18 11:22:45,093 - nopComm Application -WARN - ---------------warn-------------
+2023-07-18 11:22:45,093 - nopComm Application -ERROR - ---------------error-------------
+2023-07-18 11:22:47,536 - nopComm Application -INFO - launching chrome browser
+2023-07-18 11:22:49,665 - nopComm Application -INFO - launching application: https://admin-demo.nopcommerce.com/login?ReturnUrl=%2Fadmin%2F
+2023-07-18 11:22:59,683 - nopComm Application -INFO - login test case, enter user credenatils
+2023-07-18 11:22:59,730 - nopComm Application -INFO - clear the email
+2023-07-18 11:22:59,776 - nopComm Application -INFO - enter email: admin@yourstore.com
+2023-07-18 11:22:59,809 - nopComm Application -INFO - clear the password
+2023-07-18 11:22:59,842 - nopComm Application -INFO - enter passwordadmin
+2023-07-18 11:22:59,843 - nopComm Application -INFO - click on remmember me checkbox
+2023-07-18 11:22:59,877 - nopComm Application -INFO - click on login button
+2023-07-18 11:23:08,199 - nopComm Application -INFO - application title after login: Dashboard / nopCommerce administration
+2023-07-18 11:23:08,210 - nopComm Application -INFO - closing an application
+2023-07-18 11:25:01,038 - nopComm Application -INFO - ---------------info-------------
+2023-07-18 11:25:01,040 - nopComm Application -WARN - ---------------warn-------------
+2023-07-18 11:25:01,041 - nopComm Application -ERROR - ---------------error-------------
+2023-07-18 11:25:02,459 - nopComm Application -INFO - launching chrome browser
+2023-07-18 11:25:04,209 - nopComm Application -INFO - launching application: https://admin-demo.nopcommerce.com/login?ReturnUrl=%2Fadmin%2F
+2023-07-18 11:25:14,230 - nopComm Application -INFO - login test case, enter user credenatils
+2023-07-18 11:25:14,273 - nopComm Application -INFO - clear the email
+2023-07-18 11:25:14,331 - nopComm Application -INFO - enter email: admin@yourstore.com
+2023-07-18 11:25:14,359 - nopComm Application -INFO - clear the password
+2023-07-18 11:25:14,392 - nopComm Application -INFO - enter passwordadmin
+2023-07-18 11:25:14,392 - nopComm Application -INFO - click on remmember me checkbox
+2023-07-18 11:25:14,426 - nopComm Application -INFO - click on login button
+2023-07-18 11:25:21,844 - nopComm Application -INFO - application title after login: Dashboard / nopCommerce administration
+2023-07-18 11:25:21,849 - nopComm Application -INFO - click on logout button
+2023-07-18 11:25:29,219 - nopComm Application -INFO - application title after logout: Your store. Login
+2023-07-18 11:25:29,220 - nopComm Application -INFO - closing an application
+2023-07-19 12:47:13,388 - nopComm Application -INFO - ---------------info-------------
+2023-07-19 12:47:13,392 - nopComm Application -WARN - ---------------warn-------------
+2023-07-19 12:47:13,393 - nopComm Application -ERROR - ---------------error-------------
+2023-07-19 12:47:15,206 - nopComm Application -INFO - launching chrome browser
+2023-07-19 12:47:16,964 - nopComm Application -INFO - launching application: https://admin-demo.nopcommerce.com/login?ReturnUrl=%2Fadmin%2F
+2023-07-19 12:47:26,996 - nopComm Application -INFO - login test case, enter user credenatils
+2023-07-19 12:47:27,059 - nopComm Application -INFO - clear the email
+2023-07-19 12:47:27,123 - nopComm Application -INFO - enter email: admin@yourstore.com
+2023-07-19 12:47:27,162 - nopComm Application -INFO - clear the password
+2023-07-19 12:47:27,205 - nopComm Application -INFO - enter passwordadmin
+2023-07-19 12:47:27,205 - nopComm Application -INFO - click on remmember me checkbox
+2023-07-19 12:47:27,244 - nopComm Application -INFO - click on login button
+2023-07-19 12:47:35,955 - nopComm Application -INFO - application title after login: Dashboard / nopCommerce administration
+2023-07-19 12:47:35,962 - nopComm Application -INFO - click on logout button
+2023-07-19 12:47:42,871 - nopComm Application -INFO - application title after logout: Your store. Login
+2023-07-19 12:47:42,878 - nopComm Application -INFO - closing an application
+2023-07-19 12:48:27,299 - nopComm Application -INFO - ---------------info-------------
+2023-07-19 12:48:27,301 - nopComm Application -WARN - ---------------warn-------------
+2023-07-19 12:48:27,302 - nopComm Application -ERROR - ---------------error-------------
+2023-07-19 12:48:28,845 - nopComm Application -INFO - launching chrome browser
+2023-07-19 12:48:30,579 - nopComm Application -INFO - launching application: https://admin-demo.nopcommerce.com/login?ReturnUrl=%2Fadmin%2F
+2023-07-19 12:48:40,623 - nopComm Application -INFO - login test case, enter user credenatils
+2023-07-19 12:48:40,692 - nopComm Application -INFO - clear the email
+2023-07-19 12:48:40,779 - nopComm Application -INFO - enter email: admin@yourstore.com
+2023-07-19 12:48:40,811 - nopComm Application -INFO - clear the password
+2023-07-19 12:48:40,849 - nopComm Application -INFO - enter passwordadmin
+2023-07-19 12:48:40,849 - nopComm Application -INFO - click on remmember me checkbox
+2023-07-19 12:48:40,887 - nopComm Application -INFO - click on login button
+2023-07-19 12:48:49,877 - nopComm Application -INFO - application title after login: Dashboard / nopCommerce administration
+2023-07-19 12:48:49,882 - nopComm Application -INFO - click on logout button
+2023-07-19 12:48:56,703 - nopComm Application -INFO - application title after logout: Your store. Login
+2023-07-19 12:48:56,710 - nopComm Application -INFO - closing an application
+2023-07-19 12:49:49,421 - nopComm Application -INFO - ---------------info-------------
+2023-07-19 12:49:49,425 - nopComm Application -WARN - ---------------warn-------------
+2023-07-19 12:49:49,425 - nopComm Application -ERROR - ---------------error-------------
+2023-07-19 12:49:51,112 - nopComm Application -INFO - launching chrome browser
+2023-07-19 12:49:52,062 - nopComm Application -INFO - launching application: https://admin-demo.nopcommerce.com/login?ReturnUrl=%2Fadmin%2F
+2023-07-19 12:50:02,092 - nopComm Application -INFO - login test case, enter user credenatils
+2023-07-19 12:50:02,148 - nopComm Application -INFO - clear the email
+2023-07-19 12:50:02,205 - nopComm Application -INFO - enter email: admin@yourstore.com
+2023-07-19 12:50:02,241 - nopComm Application -INFO - clear the password
+2023-07-19 12:50:02,280 - nopComm Application -INFO - enter passwordadmin
+2023-07-19 12:50:02,280 - nopComm Application -INFO - click on remmember me checkbox
+2023-07-19 12:50:02,315 - nopComm Application -INFO - click on login button
+2023-07-19 12:50:09,515 - nopComm Application -INFO - application title after login: Dashboard / nopCommerce administration
+2023-07-19 12:50:09,521 - nopComm Application -INFO - click on logout button
+2023-07-19 12:50:16,105 - nopComm Application -INFO - application title after logout: Your store. Login
+2023-07-19 12:50:16,111 - nopComm Application -INFO - closing an application
+2023-07-20 11:16:31,746 - nopComm Application -INFO - ---------------info-------------
+2023-07-20 11:16:31,752 - nopComm Application -WARN - ---------------warn-------------
+2023-07-20 11:16:31,752 - nopComm Application -ERROR - ---------------error-------------
+2023-07-20 11:16:35,525 - nopComm Application -INFO - launching chrome browser
+2023-07-20 11:16:40,208 - nopComm Application -INFO - launching application: https://admin-demo.nopcommerce.com/login?ReturnUrl=%2Fadmin%2F
+2023-07-20 11:16:50,251 - nopComm Application -INFO - login test case, enter user credenatils
+2023-07-20 11:16:50,340 - nopComm Application -INFO - clear the email
+2023-07-20 11:16:50,437 - nopComm Application -INFO - enter email: admin@yourstore.com
+2023-07-20 11:16:50,510 - nopComm Application -INFO - clear the password
+2023-07-20 11:16:50,565 - nopComm Application -INFO - enter passwordadmin
+2023-07-20 11:16:50,565 - nopComm Application -INFO - click on remmember me checkbox
+2023-07-20 11:16:50,622 - nopComm Application -INFO - click on login button
+2023-07-20 11:17:00,816 - nopComm Application -INFO - application title after login: Dashboard / nopCommerce administration
+2023-07-20 11:17:00,831 - nopComm Application -INFO - click on logout button
+2023-07-20 11:17:08,296 - nopComm Application -INFO - application title after logout: Your store. Login
+2023-07-20 11:17:08,310 - nopComm Application -INFO - closing an application
+2023-07-20 11:50:40,394 - nopComm Application -INFO - ---------------info-------------
+2023-07-20 11:50:40,396 - nopComm Application -WARN - ---------------warn-------------
+2023-07-20 11:50:40,396 - nopComm Application -ERROR - ---------------error-------------
+2023-07-20 11:50:42,051 - nopComm Application -INFO - launching chrome browser
+2023-07-20 11:50:43,726 - nopComm Application -INFO - launching application: https://admin-demo.nopcommerce.com/login?ReturnUrl=%2Fadmin%2F
+2023-07-20 11:50:53,783 - nopComm Application -INFO - login test case, enter user credenatils
+2023-07-20 11:50:53,825 - nopComm Application -INFO - clear the email
+2023-07-20 11:50:53,874 - nopComm Application -INFO - enter email: admin@yourstore.com
+2023-07-20 11:50:53,906 - nopComm Application -INFO - clear the password
+2023-07-20 11:50:53,947 - nopComm Application -INFO - enter passwordadmin
+2023-07-20 11:50:53,947 - nopComm Application -INFO - click on remmember me checkbox
+2023-07-20 11:50:53,980 - nopComm Application -INFO - click on login button
+2023-07-20 11:51:02,427 - nopComm Application -INFO - application title after login: Dashboard / nopCommerce administration
+2023-07-20 11:51:02,430 - nopComm Application -INFO - click on logout button
+2023-07-20 11:51:08,875 - nopComm Application -INFO - application title after logout: Your store. Login
+2023-07-20 11:51:08,893 - nopComm Application -INFO - closing an application
+2023-07-21 12:18:11,469 - nopComm Application -INFO - ---------------info-------------
+2023-07-21 12:18:11,471 - nopComm Application -WARN - ---------------warn-------------
+2023-07-21 12:18:11,472 - nopComm Application -ERROR - ---------------error-------------
+2023-07-21 12:18:13,374 - nopComm Application -INFO - launching chrome browser
+2023-07-21 12:18:15,192 - nopComm Application -INFO - launching application: https://admin-demo.nopcommerce.com/login?ReturnUrl=%2Fadmin%2F
+2023-07-21 12:18:25,223 - nopComm Application -INFO - login test case, enter user credenatils
+2023-07-21 12:18:25,243 - nopComm Application -INFO - closing an application
+2023-07-21 12:18:39,141 - nopComm Application -INFO - ---------------info-------------
+2023-07-21 12:18:39,144 - nopComm Application -WARN - ---------------warn-------------
+2023-07-21 12:18:39,144 - nopComm Application -ERROR - ---------------error-------------
+2023-07-21 12:18:41,376 - nopComm Application -INFO - launching chrome browser
+2023-07-21 12:18:43,411 - nopComm Application -INFO - launching application: https://admin-demo.nopcommerce.com/login?ReturnUrl=%2Fadmin%2F
+2023-07-21 12:18:53,429 - nopComm Application -INFO - login test case, enter user credenatils
+2023-07-21 12:18:53,488 - nopComm Application -INFO - clear the email
+2023-07-21 12:18:53,550 - nopComm Application -INFO - enter email: admin@yourstore.com
+2023-07-21 12:18:53,588 - nopComm Application -INFO - clear the password
+2023-07-21 12:18:53,643 - nopComm Application -INFO - enter passwordadmin
+2023-07-21 12:18:53,644 - nopComm Application -INFO - click on remmember me checkbox
+2023-07-21 12:18:53,688 - nopComm Application -INFO - click on login button
+2023-07-21 12:19:01,228 - nopComm Application -INFO - application title after login: Dashboard / nopCommerce administration
+2023-07-21 12:19:01,234 - nopComm Application -INFO - click on logout button
+2023-07-21 12:19:07,625 - nopComm Application -INFO - application title after logout: Your store. Login
+2023-07-21 12:19:07,630 - nopComm Application -INFO - closing an application
+2023-08-01 10:18:01,446 - nopComm Application -INFO - ---------------info-------------
+2023-08-01 10:18:01,451 - nopComm Application -WARN - ---------------warn-------------
+2023-08-01 10:18:01,451 - nopComm Application -ERROR - ---------------error-------------
+2023-08-01 10:18:04,233 - nopComm Application -INFO - launching chrome browser
+2023-08-01 10:18:06,117 - nopComm Application -INFO - launching application: https://admin-demo.nopcommerce.com/login?ReturnUrl=%2Fadmin%2F
+2023-08-01 10:18:16,153 - nopComm Application -INFO - login test case, enter user credenatils
+2023-08-01 10:18:16,173 - nopComm Application -INFO - closing an application
+2023-08-01 10:23:03,086 - nopComm Application -INFO - ---------------info-------------
+2023-08-01 10:23:03,092 - nopComm Application -WARN - ---------------warn-------------
+2023-08-01 10:23:03,092 - nopComm Application -ERROR - ---------------error-------------
+2023-08-01 10:23:06,112 - nopComm Application -INFO - launching chrome browser
+2023-08-01 10:23:08,059 - nopComm Application -INFO - launching application: https://admin-demo.nopcommerce.com/login?ReturnUrl=%2Fadmin%2F
+2023-08-01 10:23:18,097 - nopComm Application -INFO - login test case, enter user credenatils
+2023-08-01 10:23:18,186 - nopComm Application -INFO - clear the email
+2023-08-01 10:23:18,278 - nopComm Application -INFO - enter email: admin@yourstore.com
+2023-08-01 10:23:18,325 - nopComm Application -INFO - clear the password
+2023-08-01 10:23:18,403 - nopComm Application -INFO - enter passwordadmin
+2023-08-01 10:23:18,403 - nopComm Application -INFO - click on remmember me checkbox
+2023-08-01 10:23:18,460 - nopComm Application -INFO - click on login button
+2023-08-01 10:23:26,886 - nopComm Application -INFO - application title after login: Dashboard / nopCommerce administration
+2023-08-01 10:23:26,895 - nopComm Application -INFO - click on logout button
+2023-08-01 10:23:33,322 - nopComm Application -INFO - application title after logout: Your store. Login
+2023-08-01 10:23:33,329 - nopComm Application -INFO - closing an application
+2023-08-01 10:56:43,140 - nopComm Application -INFO - ---------------info-------------
+2023-08-01 10:56:43,143 - nopComm Application -WARN - ---------------warn-------------
+2023-08-01 10:56:43,143 - nopComm Application -ERROR - ---------------error-------------
+2023-08-01 10:56:45,560 - nopComm Application -INFO - launching chrome browser
+2023-08-01 10:56:47,416 - nopComm Application -INFO - launching application: https://admin-demo.nopcommerce.com/login?ReturnUrl=%2Fadmin%2F
+2023-08-01 10:56:57,446 - nopComm Application -INFO - login test case, enter user credenatils
+2023-08-01 10:56:57,595 - nopComm Application -INFO - clear the email
+2023-08-01 10:56:57,856 - nopComm Application -INFO - enter email: admin@yourstore.com
+2023-08-01 10:56:58,054 - nopComm Application -INFO - clear the password
+2023-08-01 10:56:58,549 - nopComm Application -INFO - enter passwordadmin
+2023-08-01 10:56:58,551 - nopComm Application -INFO - click on remmember me checkbox
+2023-08-01 10:56:58,899 - nopComm Application -INFO - click on login button
+2023-08-01 10:57:08,304 - nopComm Application -INFO - application title after login: Dashboard / nopCommerce administration
+2023-08-01 10:57:08,310 - nopComm Application -INFO - click on logout button
+2023-08-01 10:57:14,810 - nopComm Application -INFO - application title after logout: Your store. Login
+2023-08-01 10:57:14,822 - nopComm Application -INFO - closing an application
+2023-08-01 11:05:36,081 - nopComm Application -INFO - ---------------info-------------
+2023-08-01 11:05:36,084 - nopComm Application -WARN - ---------------warn-------------
+2023-08-01 11:05:36,084 - nopComm Application -ERROR - ---------------error-------------
+2023-08-01 11:05:39,287 - nopComm Application -INFO - launching chrome browser
+2023-08-01 11:05:40,529 - nopComm Application -INFO - launching application: https://admin-demo.nopcommerce.com/login?ReturnUrl=%2Fadmin%2F
+2023-08-01 11:05:50,561 - nopComm Application -INFO - login test case, enter user credenatils
+2023-08-01 11:05:50,670 - nopComm Application -INFO - clear the email
+2023-08-01 11:05:50,761 - nopComm Application -INFO - enter email: admin@yourstore.com
+2023-08-01 11:05:50,836 - nopComm Application -INFO - clear the password
+2023-08-01 11:05:51,007 - nopComm Application -INFO - enter passwordadmin
+2023-08-01 11:05:51,008 - nopComm Application -INFO - click on remmember me checkbox
+2023-08-01 11:05:51,082 - nopComm Application -INFO - click on login button
+2023-08-01 11:06:06,724 - nopComm Application -INFO - application title after login: Dashboard / nopCommerce administration
+2023-08-01 11:06:06,736 - nopComm Application -INFO - click on logout button
+2023-08-01 11:06:13,265 - nopComm Application -INFO - application title after logout: Your store. Login
+2023-08-01 11:06:13,273 - nopComm Application -INFO - closing an application
+2023-08-01 12:59:23,522 - nopComm Application -INFO - ---------------info-------------
+2023-08-01 12:59:23,525 - nopComm Application -WARN - ---------------warn-------------
+2023-08-01 12:59:23,525 - nopComm Application -ERROR - ---------------error-------------
+2023-08-01 12:59:26,357 - nopComm Application -INFO - launching chrome browser
+2023-08-01 12:59:28,300 - nopComm Application -INFO - launching application: https://admin-demo.nopcommerce.com/login?ReturnUrl=%2Fadmin%2F
+2023-08-01 12:59:38,319 - nopComm Application -INFO - login test case, enter user credenatils
+2023-08-01 12:59:38,438 - nopComm Application -INFO - clear the email
+2023-08-01 12:59:38,526 - nopComm Application -INFO - enter email: admin@yourstore.com
+2023-08-01 12:59:38,595 - nopComm Application -INFO - clear the password
+2023-08-01 12:59:38,683 - nopComm Application -INFO - enter passwordadmin
+2023-08-01 12:59:38,683 - nopComm Application -INFO - click on remmember me checkbox
+2023-08-01 12:59:38,775 - nopComm Application -INFO - click on login button
+2023-08-01 12:59:48,065 - nopComm Application -INFO - application title after login: Dashboard / nopCommerce administration
+2023-08-01 12:59:48,074 - nopComm Application -INFO - click on logout button
+2023-08-01 12:59:54,565 - nopComm Application -INFO - application title after logout: Your store. Login
+2023-08-01 12:59:54,581 - nopComm Application -INFO - closing an application
+2023-08-01 17:46:48,805 - nopComm Application -INFO - ---------------info-------------
+2023-08-01 17:46:48,811 - nopComm Application -WARN - ---------------warn-------------
+2023-08-01 17:46:48,812 - nopComm Application -ERROR - ---------------error-------------
+2023-08-01 17:46:54,072 - nopComm Application -INFO - launching chrome browser
+2023-08-01 17:46:56,563 - nopComm Application -INFO - launching application: https://admin-demo.nopcommerce.com/login?ReturnUrl=%2Fadmin%2F
+2023-08-01 17:47:06,592 - nopComm Application -INFO - login test case, enter user credenatils
+2023-08-01 17:47:06,690 - nopComm Application -INFO - clear the email
+2023-08-01 17:47:06,790 - nopComm Application -INFO - enter email: admin@yourstore.com
+2023-08-01 17:47:06,846 - nopComm Application -INFO - clear the password
+2023-08-01 17:47:06,924 - nopComm Application -INFO - enter passwordadmin
+2023-08-01 17:47:06,925 - nopComm Application -INFO - click on remmember me checkbox
+2023-08-01 17:47:07,031 - nopComm Application -INFO - click on login button
+2023-08-01 17:47:16,656 - nopComm Application -INFO - application title after login: Dashboard / nopCommerce administration
+2023-08-01 17:47:16,664 - nopComm Application -INFO - click on logout button
+2023-08-01 17:47:23,210 - nopComm Application -INFO - application title after logout: Your store. Login
+2023-08-01 17:47:23,224 - nopComm Application -INFO - closing an application
+2023-08-01 18:16:43,903 - nopComm Application -INFO - ---------------info-------------
+2023-08-01 18:16:43,907 - nopComm Application -WARN - ---------------warn-------------
+2023-08-01 18:16:43,907 - nopComm Application -ERROR - ---------------error-------------
+2023-08-01 18:16:47,379 - nopComm Application -INFO - launching chrome browser
+2023-08-01 18:16:49,658 - nopComm Application -INFO - launching application: https://admin-demo.nopcommerce.com/login?ReturnUrl=%2Fadmin%2F
+2023-08-01 18:16:59,680 - nopComm Application -INFO - login test case, enter user credenatils
+2023-08-01 18:16:59,781 - nopComm Application -INFO - clear the email
+2023-08-01 18:16:59,907 - nopComm Application -INFO - enter email: admin@yourstore.com
+2023-08-01 18:16:59,960 - nopComm Application -INFO - clear the password
+2023-08-01 18:17:00,062 - nopComm Application -INFO - enter passwordadmin
+2023-08-01 18:17:00,062 - nopComm Application -INFO - click on remmember me checkbox
+2023-08-01 18:17:00,149 - nopComm Application -INFO - click on login button
+2023-08-01 18:17:11,099 - nopComm Application -INFO - application title after login: Dashboard / nopCommerce administration
+2023-08-01 18:17:11,109 - nopComm Application -INFO - click on logout button
+2023-08-01 18:17:17,576 - nopComm Application -INFO - application title after logout: Your store. Login
+2023-08-01 18:17:17,586 - nopComm Application -INFO - closing an application
+2023-08-01 18:22:45,047 - nopComm Application -INFO - ---------------info-------------
+2023-08-01 18:22:45,052 - nopComm Application -WARN - ---------------warn-------------
+2023-08-01 18:22:45,052 - nopComm Application -ERROR - ---------------error-------------
+2023-08-01 18:22:48,428 - nopComm Application -INFO - launching chrome browser
+2023-08-01 18:22:50,402 - nopComm Application -INFO - launching application: https://admin-demo.nopcommerce.com/login?ReturnUrl=%2Fadmin%2F
+2023-08-01 18:23:00,416 - nopComm Application -INFO - login test case, enter user credenatils
+2023-08-01 18:23:00,526 - nopComm Application -INFO - clear the email
+2023-08-01 18:23:00,629 - nopComm Application -INFO - enter email: admin@yourstore.com
+2023-08-01 18:23:00,704 - nopComm Application -INFO - clear the password
+2023-08-01 18:23:00,800 - nopComm Application -INFO - enter passwordadmin
+2023-08-01 18:23:00,800 - nopComm Application -INFO - click on remmember me checkbox
+2023-08-01 18:23:00,908 - nopComm Application -INFO - click on login button
+2023-08-01 18:23:09,427 - nopComm Application -INFO - application title after login: Dashboard / nopCommerce administration
+2023-08-01 18:23:09,440 - nopComm Application -INFO - click on logout button
+2023-08-01 18:23:15,947 - nopComm Application -INFO - application title after logout: Your store. Login
+2023-08-01 18:23:15,962 - nopComm Application -INFO - closing an application
+2023-08-01 18:25:41,776 - nopComm Application -INFO - ---------------info-------------
+2023-08-01 18:25:41,783 - nopComm Application -WARN - ---------------warn-------------
+2023-08-01 18:25:41,784 - nopComm Application -ERROR - ---------------error-------------
+2023-08-01 18:25:45,337 - nopComm Application -INFO - launching chrome browser
+2023-08-01 18:25:47,552 - nopComm Application -INFO - launching application: https://admin-demo.nopcommerce.com/login?ReturnUrl=%2Fadmin%2F
+2023-08-01 18:25:57,582 - nopComm Application -INFO - login test case, enter user credenatils
+2023-08-01 18:25:57,691 - nopComm Application -INFO - clear the email
+2023-08-01 18:25:58,011 - nopComm Application -INFO - enter email: admin@yourstore.com
+2023-08-01 18:25:58,137 - nopComm Application -INFO - clear the password
+2023-08-01 18:25:58,314 - nopComm Application -INFO - enter passwordadmin
+2023-08-01 18:25:58,315 - nopComm Application -INFO - click on remmember me checkbox
+2023-08-01 18:25:58,825 - nopComm Application -INFO - click on login button
+2023-08-01 18:26:09,807 - nopComm Application -INFO - application title after login: Dashboard / nopCommerce administration
+2023-08-01 18:26:09,817 - nopComm Application -INFO - click on logout button
+2023-08-01 18:26:16,285 - nopComm Application -INFO - application title after logout: Your store. Login
+2023-08-01 18:26:16,292 - nopComm Application -INFO - closing an application
+2023-08-01 18:55:52,862 - nopComm Application -INFO - ---------------info-------------
+2023-08-01 18:55:52,874 - nopComm Application -WARN - ---------------warn-------------
+2023-08-01 18:55:52,874 - nopComm Application -ERROR - ---------------error-------------
+2023-08-01 18:56:01,563 - nopComm Application -INFO - launching chrome browser
+2023-08-01 18:56:03,903 - nopComm Application -INFO - launching application: https://admin-demo.nopcommerce.com/login?ReturnUrl=%2Fadmin%2F
+2023-08-01 18:56:13,925 - nopComm Application -INFO - login test case, enter user credenatils
+2023-08-01 18:56:14,066 - nopComm Application -INFO - clear the email
+2023-08-01 18:56:14,373 - nopComm Application -INFO - enter email: admin@yourstore.com
+2023-08-01 18:56:14,490 - nopComm Application -INFO - clear the password
+2023-08-01 18:56:14,632 - nopComm Application -INFO - enter passwordadmin
+2023-08-01 18:56:14,632 - nopComm Application -INFO - click on remmember me checkbox
+2023-08-01 18:56:14,758 - nopComm Application -INFO - click on login button
+2023-08-01 18:56:25,222 - nopComm Application -INFO - application title after login: Dashboard / nopCommerce administration
+2023-08-01 18:56:25,240 - nopComm Application -INFO - click on logout button
+2023-08-01 18:56:31,865 - nopComm Application -INFO - application title after logout: Your store. Login
+2023-08-01 18:56:31,873 - nopComm Application -INFO - closing an application
+2023-08-01 20:41:17,166 - nopComm Application -INFO - ---------------info-------------
+2023-08-01 20:41:17,169 - nopComm Application -WARN - ---------------warn-------------
+2023-08-01 20:41:17,170 - nopComm Application -ERROR - ---------------error-------------
+2023-08-01 20:41:19,801 - nopComm Application -INFO - launching chrome browser
+2023-08-01 20:41:22,594 - nopComm Application -INFO - launching application: https://admin-demo.nopcommerce.com/login?ReturnUrl=%2Fadmin%2F
+2023-08-01 20:41:32,606 - nopComm Application -INFO - login test case, enter user credenatils
+2023-08-01 20:41:32,710 - nopComm Application -INFO - clear the email
+2023-08-01 20:41:32,844 - nopComm Application -INFO - enter email: admin@yourstore.com
+2023-08-01 20:41:32,911 - nopComm Application -INFO - clear the password
+2023-08-01 20:41:32,992 - nopComm Application -INFO - enter passwordadmin
+2023-08-01 20:41:32,993 - nopComm Application -INFO - click on remmember me checkbox
+2023-08-01 20:41:33,096 - nopComm Application -INFO - click on login button
+2023-08-01 20:41:42,706 - nopComm Application -INFO - application title after login: Dashboard / nopCommerce administration
+2023-08-01 20:41:42,712 - nopComm Application -INFO - click on logout button
+2023-08-01 20:41:49,180 - nopComm Application -INFO - application title after logout: Your store. Login
+2023-08-01 20:41:49,203 - nopComm Application -INFO - closing an application
+2023-08-02 08:53:33,387 - nopComm Application -INFO - ---------------info-------------
+2023-08-02 08:53:33,395 - nopComm Application -WARN - ---------------warn-------------
+2023-08-02 08:53:33,395 - nopComm Application -ERROR - ---------------error-------------
+2023-08-02 08:53:37,449 - nopComm Application -INFO - launching chrome browser
+2023-08-02 08:53:39,865 - nopComm Application -INFO - launching application: https://admin-demo.nopcommerce.com/login?ReturnUrl=%2Fadmin%2F
+2023-08-02 08:53:49,899 - nopComm Application -INFO - login test case, enter user credenatils
+2023-08-02 08:53:50,009 - nopComm Application -INFO - clear the email
+2023-08-02 08:53:50,251 - nopComm Application -INFO - enter email: admin@yourstore.com
+2023-08-02 08:53:50,311 - nopComm Application -INFO - clear the password
+2023-08-02 08:53:50,398 - nopComm Application -INFO - enter passwordadmin
+2023-08-02 08:53:50,399 - nopComm Application -INFO - click on remmember me checkbox
+2023-08-02 08:53:50,479 - nopComm Application -INFO - click on login button
+2023-08-02 08:53:59,683 - nopComm Application -INFO - application title after login: Dashboard / nopCommerce administration
+2023-08-02 08:53:59,706 - nopComm Application -INFO - click on logout button
+2023-08-02 08:54:06,281 - nopComm Application -INFO - application title after logout: Your store. Login
+2023-08-02 08:54:06,305 - nopComm Application -INFO - closing an application
+2023-08-02 10:21:37,013 - nopComm Application -INFO - ---------------info-------------
+2023-08-02 10:21:37,017 - nopComm Application -WARN - ---------------warn-------------
+2023-08-02 10:21:37,017 - nopComm Application -ERROR - ---------------error-------------
+2023-08-02 10:21:39,889 - nopComm Application -INFO - launching chrome browser
+2023-08-02 10:21:42,173 - nopComm Application -INFO - launching application: https://admin-demo.nopcommerce.com/login?ReturnUrl=%2Fadmin%2F
+2023-08-02 10:21:52,189 - nopComm Application -INFO - login test case, enter user credenatils
+2023-08-02 10:21:52,261 - nopComm Application -INFO - clear the email
+2023-08-02 10:21:52,340 - nopComm Application -INFO - enter email: admin@yourstore.com
+2023-08-02 10:21:52,390 - nopComm Application -INFO - clear the password
+2023-08-02 10:21:52,469 - nopComm Application -INFO - enter passwordadmin
+2023-08-02 10:21:52,469 - nopComm Application -INFO - click on remmember me checkbox
+2023-08-02 10:21:52,540 - nopComm Application -INFO - click on login button
+2023-08-02 10:22:01,594 - nopComm Application -INFO - application title after login: Dashboard / nopCommerce administration
+2023-08-02 10:22:01,602 - nopComm Application -INFO - click on logout button
+2023-08-02 10:22:08,097 - nopComm Application -INFO - application title after logout: Your store. Login
+2023-08-02 10:22:08,104 - nopComm Application -INFO - closing an application
+2023-08-02 15:24:32,082 - nopComm Application -INFO - ---------------info-------------
+2023-08-02 15:24:32,091 - nopComm Application -WARN - ---------------warn-------------
+2023-08-02 15:24:32,091 - nopComm Application -ERROR - ---------------error-------------
+2023-08-02 15:24:36,514 - nopComm Application -INFO - launching chrome browser
+2023-08-02 15:24:37,659 - nopComm Application -INFO - launching application: https://admin-demo.nopcommerce.com/login?ReturnUrl=%2Fadmin%2F
+2023-08-02 15:24:47,685 - nopComm Application -INFO - login test case, enter user credenatils
+2023-08-02 15:24:47,802 - nopComm Application -INFO - clear the email
+2023-08-02 15:24:48,006 - nopComm Application -INFO - enter email: admin@yourstore.com
+2023-08-02 15:24:48,088 - nopComm Application -INFO - clear the password
+2023-08-02 15:24:48,224 - nopComm Application -INFO - enter passwordadmin
+2023-08-02 15:24:48,227 - nopComm Application -INFO - click on remmember me checkbox
+2023-08-02 15:24:48,361 - nopComm Application -INFO - click on login button
+2023-08-02 15:24:56,017 - nopComm Application -INFO - application title after login: Dashboard / nopCommerce administration
+2023-08-02 15:24:56,036 - nopComm Application -INFO - click on logout button
+2023-08-02 15:25:02,913 - nopComm Application -INFO - application title after logout: Your store. Login
+2023-08-02 15:25:02,934 - nopComm Application -INFO - closing an application
+2023-08-02 15:26:05,362 - nopComm Application -INFO - ---------------info-------------
+2023-08-02 15:26:05,373 - nopComm Application -WARN - ---------------warn-------------
+2023-08-02 15:26:05,373 - nopComm Application -ERROR - ---------------error-------------
+2023-08-02 15:26:09,518 - nopComm Application -INFO - launching chrome browser
+2023-08-02 15:26:11,590 - nopComm Application -INFO - launching application: https://admin-demo.nopcommerce.com/login?ReturnUrl=%2Fadmin%2F
+2023-08-02 15:26:21,605 - nopComm Application -INFO - login test case, enter user credenatils
+2023-08-02 15:26:21,773 - nopComm Application -INFO - clear the email
+2023-08-02 15:26:21,938 - nopComm Application -INFO - enter email: admin@yourstore.com
+2023-08-02 15:26:22,050 - nopComm Application -INFO - clear the password
+2023-08-02 15:26:22,162 - nopComm Application -INFO - enter passwordadmin
+2023-08-02 15:26:22,162 - nopComm Application -INFO - click on remmember me checkbox
+2023-08-02 15:26:22,270 - nopComm Application -INFO - click on login button
+2023-08-02 15:26:32,916 - nopComm Application -INFO - application title after login: Dashboard / nopCommerce administration
+2023-08-02 15:26:32,930 - nopComm Application -INFO - click on logout button
+2023-08-02 15:26:39,575 - nopComm Application -INFO - application title after logout: Your store. Login
+2023-08-02 15:26:39,600 - nopComm Application -INFO - closing an application
